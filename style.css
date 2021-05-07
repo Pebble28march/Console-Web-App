@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/87/851/622/laptop-backgrounds-nature-images-1920x1200-wallpaper-preview.jpg);
+    font-family: 20px;
+    background-size:cover;
+    color: bisque;
+}
+h1{
+ color: bisque;
+ font-size:30px;
+ font-family:cursive;
+}
+img{
+    border: white;
+    border-width: 10px;
+}
